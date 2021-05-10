@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "history": "^4.9.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
     "pg": "^7.11.0",
